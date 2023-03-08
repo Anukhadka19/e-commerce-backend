@@ -29,7 +29,7 @@ THEN I am able to successfully create, update, and delete data in my database
 <img width="1150" alt="Screen Shot 2023-03-07 at 8 17 39 PM" src="https://user-images.githubusercontent.com/113952075/223594249-7f413c77-2f0e-4072-a61a-22325bda9b97.png">
 <img width="1143" alt="Screen Shot 2023-03-07 at 8 20 25 PM" src="https://user-images.githubusercontent.com/113952075/223594645-dd287655-fde0-4158-924d-a22a4e69b2be.png">
 
-
+Link to walk through video: https://drive.google.com/file/d/1tFp53cbyJslbmPr6zYjjH81dZMQkK59Q/view
 
 
 ## Technology
